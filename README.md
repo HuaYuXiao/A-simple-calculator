@@ -35,4 +35,3 @@ solutions, and try to implement them.
 ```
 ./mul 1.0e200 1.0e
 ```
-Some others which can improve the program.
